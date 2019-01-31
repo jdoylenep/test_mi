@@ -18,3 +18,6 @@ training
 from github
 hello again
 
+
+from GitHub class
+#this is a scond test of wditing the readme
