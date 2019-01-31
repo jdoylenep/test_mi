@@ -1,3 +1,4 @@
+
 # test_mi training
 Hello World
 
@@ -12,3 +13,8 @@ Hello World
 #then master to master = sucessful push
 
 from rstudio hello
+# test_mi
+training
+from github
+hello again
+
